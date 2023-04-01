@@ -15,23 +15,22 @@ body {
 
 .container {
     background-color: #fff;
-    width: 40%;
+    width: 50%;
     text-align: center;
-    padding: 0px 10px;
+    padding: 12px;
     border-radius: 10px;
 }
 
 #color-code {
-    font-size: 40px;
+    font-size: 28px;
 }
 
 #btn {
-    font-size: 30px;
+    font-size: 26px;
     cursor: pointer;
     background-color: black;
     color: white;
-    display: block;
+    border: none;
     width: 100%;
-    margin-bottom: 10px;
     border-radius: 10px;
 }
