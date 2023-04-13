@@ -1,6 +1,6 @@
 # Random-Color-Generator
 
-This project is a simple JavaScript application that generates a random color each time a button is clicked. The generated color is displayed on the screen along with its corresponding hexadecimal value.
+This project is a simple JavaScript application that generates a random color each time a button is clicked. The generated color is displayed on the screen along with its corresponding hexadecimal value. 
 
 Installation:
 To use this application, simply clone or download the repository and open the index.html file in your web browser.
