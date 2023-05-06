@@ -1,3 +1,6 @@
+# Preview Live Site: 
+https://zuhaib-asif.github.io/Random-Color-Generator/
+
 # Random-Color-Generator
 
 This project is a simple JavaScript application that generates a random color each time a button is clicked. The generated color is displayed on the screen along with its corresponding hexadecimal value. 
